@@ -1,0 +1,482 @@
+C:\Data\yasso07ui\dist\.\stats.py:473: RuntimeWarning: invalid value encountered in double_scalars
+C:\Data\yasso07ui\dist\.\stats.py:519: RuntimeWarning: invalid value encountered in double_scalars
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D0E6090>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D0DFB70>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D0E6090>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0C88EB10>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D0E6090>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0C88EB10>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D0E6090>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0C88EB10>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D241930>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D23F0F0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D241930>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D23F0F0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D241930>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D23F0F0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D241930>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D23F0F0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D241930>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D23F0F0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D241930>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D23F0F0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D241930>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D23F0F0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D241930>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D23F0F0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D39A240>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D392590>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D39A240>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D392590>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D39A240>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D392590>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D39A240>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D392590>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D39A240>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D392590>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D39A240>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D392590>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D39A240>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D392590>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D39A240>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D392590>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DB9CAE0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DB97EB0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DB9CAE0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0C883550>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DB9CAE0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0C883550>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DB9CAE0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0C883550>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DCA0630>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D4FE730>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DCA0630>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D4FE730>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DCA0630>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D4FE730>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DCA0630>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D4FE730>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DCA0630>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D4FE730>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DCA0630>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D4FE730>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DCA0630>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D4FE730>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DCA0630>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D4FE730>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DDA3180>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DD9A850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DDA3180>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DD9A850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DDA3180>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DD9A850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DDA3180>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DD9A850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DDA3180>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DD9A850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DDA3180>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DD9A850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DDA3180>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DD9A850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0DDA3180>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DD9A850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D562600>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D557FF0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D562600>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D557FF0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D562600>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D557FF0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x0D562600>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0D557FF0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x104CE150>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DE75850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x104CE150>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DE75850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x104CE150>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DE75850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x104CE150>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DE75850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x104CE150>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DE75850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x104CE150>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DE75850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x104CE150>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DE75850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x104CE150>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x0DE75850>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x105CBBD0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x105C49B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x105CBBD0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x105C49B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x105CBBD0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x105C49B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x105CBBD0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x105C49B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x105CBBD0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x105C49B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x105CBBD0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x105C49B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x105CBBD0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x105C49B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x105CBBD0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x105C49B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x109B6DE0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x109B95B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x109B6DE0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x109B95B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x109B6DE0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x109B95B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x109B6DE0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x109B95B0>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10AB4960>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x106B4C30>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10AB4960>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x106B4C30>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10AB4960>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x106B4C30>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10AB4960>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x106B4C30>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10AB4960>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x106B4C30>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10AB4960>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x106B4C30>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10AB4960>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x106B4C30>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10AB4960>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x106B4C30>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10BB64B0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x10BA7F50>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10BB64B0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x10BA7F50>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10BB64B0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x10BA7F50>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10BB64B0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x10BA7F50>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10BB64B0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x10BA7F50>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10BB64B0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x10BA7F50>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10BB64B0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x10BA7F50>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
+Exception occurred in traits notification handler for object: <chaco.plot_containers.GridPlotContainer object at 0x10BB64B0>, trait: _components_items, old value: <undefined>, new value: <traits.trait_handlers.TraitListEvent object at 0x10BA7F50>
+Traceback (most recent call last):
+  File "traits\trait_notifiers.pyc", line 367, in call_2
+  File "chaco\plot_containers.pyc", line 684, in __components_items_changed
+  File "chaco\plot_containers.pyc", line 668, in _reflow_layout
+ZeroDivisionError: integer division or modulo by zero
